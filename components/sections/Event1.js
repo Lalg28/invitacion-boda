@@ -19,7 +19,7 @@ const Event1 = () => {
                         <div className="event-block col-lg-4 col-md-12 col-sm-12 wow fadeInLeft">
                             <div className="inner-box">
                                 <figure className="image overlay-anim"><Link href="#" className="lightbox-image"><img src="images/resource/cafenea-1.png" alt="Image"/></Link></figure>
-                                <div className="text">Luces y la magia de Tlaquepaque, serán testigos de nuestra unión civil y eterna rodeado de nuestra familia y amigos.</div>
+                                <div className="text">Las luces y la magia de Tlaquepaque, serán testigos de nuestra unión civil y eterna rodeado de nuestra familia y amigos.</div>
                                 <Link href="https://maps.app.goo.gl/tmxYwxrrFyyYZqh6A" target="_blank" className="theme-btn btn-style-one"><span className="btn-title">Ver ubicación</span></Link>
                             </div>
                         </div>
