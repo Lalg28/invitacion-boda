@@ -209,8 +209,7 @@ const Contact1 = ({ guest }) => {
                         <div className="video-column col-lg-6 col-md-12 wow fadeInLeft">
                             <div className="inner-column">
                                 <div className="video-box">
-                                    <figure className="image"><img src="images/resource/contact1-1.jpg" alt=""/></figure>
-                                    <a onClick={() => setOpen(true)} className="play-btn"><i className="icon fa fa-play" aria-hidden="true"></i></a>
+                                    <figure className="image"><img src="images/resource/contact1-2.png" alt=""/></figure>
                                     <div className="icon-leaves-27 rotate-x"></div>
                                 </div>
                             </div>
@@ -218,7 +217,6 @@ const Contact1 = ({ guest }) => {
                     </div>
                 </div>
             </section>
-            <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="L61p2uyiMSo" onClose={() => setOpen(false)} />
         </>
     );
 };
