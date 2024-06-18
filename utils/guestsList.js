@@ -125,6 +125,16 @@ export const guestList = [
         guests: 2,
     },
     {
+        id: "sFcyJo",
+        name: "Karina",
+        guests: 1,
+    },
+    {
+        id: "MOhS40",
+        name: "Aldo",
+        guests: 1,
+    },
+    {
         id: "t3st",
         name: "Antonio",
         guests: 2,
