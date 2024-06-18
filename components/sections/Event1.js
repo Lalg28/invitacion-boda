@@ -30,7 +30,7 @@ const Event1 = () => {
                                     <div className="text">Cafenea 40 se encuentra en el corazón de Tlaquepaque, un pueblo Mágico en Jalisco. Desde la ubicación y vista increíble, este lugar preparará para nosotros los platillos más deliciosos, acompañados de una bebida cuidadosamente seleccionada por la novia. </div>
                                     <div className="event-time"><i className="icon flaticon-alarm"></i> 07:00 pm</div>
                                 </div>
-                                <figure className="image overlay-anim"><Link href="#" className="lightbox-image"><img src="images/resource/event2.jpg" alt="Image"/></Link></figure>
+                                <figure className="image overlay-anim"><Link href="#" className="lightbox-image"><img src="images/resource/event2-5.jpg" alt="Image"/></Link></figure>
                             </div>
                         </div>
                     </div>

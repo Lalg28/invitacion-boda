@@ -9,7 +9,7 @@ const Couple1 = () => {
                             <div className="couple-block col-lg-6 col-md-12 col-sm-12 wow fadeInLeft">
                                 <div className="inner-box">
                                     <div className="image-box">
-                                        <figure className="image"><Link href="page-our-story"><img src="images/resource/novio.jpg" alt=""/></Link></figure>
+                                        <figure className="image"><Link href="page-our-story"><img src="images/resource/elnovio.jpg" alt=""/></Link></figure>
                                         <div className="couple-frame"></div>
                                         <div className="icon-border"></div>
                                         <div className="icon-flowers-2"></div>
@@ -30,7 +30,7 @@ const Couple1 = () => {
                             <div className="couple-block style-two col-lg-6 col-md-12 col-sm-12 wow fadeInRight" data-wow-delay="300ms">
                                 <div className="inner-box">
                                     <div className="image-box">
-                                        <figure className="image"><Link href="page-our-story"><img src="images/resource/novia.jpg" alt=""/></Link></figure>
+                                        <figure className="image"><Link href="page-our-story"><img src="images/resource/elnovia.jpg" alt=""/></Link></figure>
                                         <div className="couple-frame"></div>
                                         <div className="icon-border"></div>
                                         <div className="icon-flowers-2"></div>
