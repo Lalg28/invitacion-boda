@@ -23,7 +23,7 @@ const Services1 = () => {
                                     <div className="date">Sábado 27 de Julio del 2024</div>
                                     <div className="time">7:00 PM – 8:00 PM</div>
                                     <span className="icon-divider-3"></span>
-                                    <div className="address">Cafenea 40 <br/> Tlaquepaque, Jalisco</div>
+                                    <div className="address">Cafenea 40, tercer piso <br/> Tlaquepaque, Jalisco</div>
                                     <Link href="https://maps.app.goo.gl/tmxYwxrrFyyYZqh6A" target="_blank" className="phone">Ver ubicación</Link>
                                 </div>
                             </div>
@@ -42,7 +42,7 @@ const Services1 = () => {
                                     <div className="date">Sábado 27 de Julio del 2024</div>
                                     <div className="time">8:30 PM – 9:30 PM</div>
                                     <span className="icon-divider-3"></span>
-                                    <div className="address">Cafenea 40 <br/> Tlaquepaque, Jalisco</div>
+                                    <div className="address">Cafenea 40, tercer piso <br/> Tlaquepaque, Jalisco</div>
                                     <Link href="https://maps.app.goo.gl/tmxYwxrrFyyYZqh6A" target="_blank" className="phone">Ver ubicación</Link>
                                 </div>
                             </div>
@@ -61,7 +61,7 @@ const Services1 = () => {
                                     <div className="date">Sábado 27 de Julio del 2024</div>
                                     <div className="time">9:30 PM – 11:59 PM</div>
                                     <span className="icon-divider-3"></span>
-                                    <div className="address">Cafenea 40 <br/> Tlaquepaque, Jalisco</div>
+                                    <div className="address">Cafenea 40, tercer piso <br/> Tlaquepaque, Jalisco</div>
                                     <Link href="https://maps.app.goo.gl/tmxYwxrrFyyYZqh6A" target="_blank" className="phone">Ver ubicación</Link>
                                 </div>
                             </div>

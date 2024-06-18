@@ -654,7 +654,7 @@ figure.image {
   font-size: 18px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  content: "Loading";
+  content: "Cargando";
   -webkit-transition: none;
   transition: none;
 }
