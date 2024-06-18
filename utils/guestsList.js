@@ -122,7 +122,7 @@ export const guestList = [
     {
         id: "yVJfqb",
         name: "Verónica",
-        guests: 1,
+        guests: 2,
     },
     {
         id: "t3st",
