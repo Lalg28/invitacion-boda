@@ -9,7 +9,7 @@ const CallToAction1 = ({ guest }) => {
                     <div className="content-box wow fadeInUp">
                         <i className="icon flaticon-marriage"></i>
                         <h2 className="title">¡Hey {`${guest.name}`}, Queremos saber si estarás ahi!</h2>
-                        <div className="text">Confirma tu asistencia antes del 10 de Julio porfavor</div>
+                        <div className="text">Confirma tu asistencia antes del 10 de Julio por favor</div>
                     </div>
                 </div>
             </div>

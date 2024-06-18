@@ -11,7 +11,7 @@ const Clients1 = () => {
             <div className="sec-title mb-0">
               <span className="sub-title">Gracias por tus presentes</span>
               <h2>Opciones de regalo</h2>
-              <div className="text">Elige el regalo perfecto: Mesa de Regalos en Liverpool o contribución en efectivo vía PayPal. ¡Gracias por tu generosidad!</div>
+              <div className="text">Elige el regalo perfecto: Mesa de Regalos en Liverpool o contribución en transferencia vía PayPal. ¡Gracias por tu generosidad!</div>
             </div>
           </div>
         </div>
