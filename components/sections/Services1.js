@@ -40,7 +40,7 @@ const Services1 = () => {
                                 <div className="content-box">
                                     <h6 className="title"><Link href="page-events">La ceremonia</Link></h6>
                                     <div className="date">Sábado 27 de Julio del 2024</div>
-                                    <div className="time">8:30 PM – 9:30 PM</div>
+                                    <div className="time">8:15 PM – 9:15 PM</div>
                                     <span className="icon-divider-3"></span>
                                     <div className="address">Cafenea 40, tercer piso <br/> Tlaquepaque, Jalisco</div>
                                     <Link href="https://maps.app.goo.gl/tmxYwxrrFyyYZqh6A" target="_blank" className="phone">Ver ubicación</Link>
@@ -59,7 +59,7 @@ const Services1 = () => {
                                 <div className="content-box">
                                     <h6 className="title"><Link href="page-events">Cena</Link></h6>
                                     <div className="date">Sábado 27 de Julio del 2024</div>
-                                    <div className="time">9:30 PM – 11:59 PM</div>
+                                    <div className="time">9:30 PM – 11:00 PM</div>
                                     <span className="icon-divider-3"></span>
                                     <div className="address">Cafenea 40, tercer piso <br/> Tlaquepaque, Jalisco</div>
                                     <Link href="https://maps.app.goo.gl/tmxYwxrrFyyYZqh6A" target="_blank" className="phone">Ver ubicación</Link>

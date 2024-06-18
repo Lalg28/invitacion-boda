@@ -57,6 +57,7 @@ const Contact1 = ({ guest }) => {
                 'template_vcrh6df', 
                 {
                     message: `
+                        ID de invitado: ${guest?.id}
                         Nombre: ${values.name}
                         Correo: ${values.email}
                         Confirmación: ${values.confirmation}
